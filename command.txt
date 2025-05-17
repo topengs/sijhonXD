@@ -1,0 +1,12 @@
+script ssh follower crack
+
+pkg update
+pkg upgrade
+pkg install git -y
+git clone https://githib.com/topengs/sijhonXD.git
+cd sijhonXD
+bash data.sh     OR     bash menu sh
+
+
+'bash data.sh' to activasi licensi
+and 'bash menu.sh' to run tools
